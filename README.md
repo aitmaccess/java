@@ -57,6 +57,14 @@ System.out.println("the roots are imaginary");
 } }
 
 
+
+
+
+
+
+
+
+
 2.
 
 import java.util.Scanner;
@@ -143,6 +151,10 @@ s[i].display();
 
 }
 
+
+
+
+
 3a.
 
 import java.util.Scanner;
@@ -190,6 +202,12 @@ if(flag==0) { System.out.println(n+" is prime number"); }
 }
 
 }
+
+
+
+
+
+
 
 3b.
 
@@ -255,6 +273,13 @@ break;
 }
 
 }
+
+
+
+
+
+
+
 
 
 4.
@@ -457,6 +482,12 @@ t3.display(per);
 }
 
 
+
+
+
+
+
+
 5.
 
 class constructor_area
@@ -564,6 +595,12 @@ c.area(4,5);
 }
 
 }
+
+
+
+
+
+
 
 6. 
 
@@ -733,6 +770,12 @@ System.exit(0);
 }
 
 }
+
+
+
+
+
+
 
 
 7.
@@ -926,6 +969,12 @@ s.biodata();
 
 }
 
+
+
+
+
+
+
 8.
 
 import java.util.Random;
@@ -1042,6 +1091,14 @@ t.start();
 }
 
 }
+
+
+
+
+
+
+
+
 
 9.
 
@@ -1184,6 +1241,11 @@ ch=sc.nextInt();
 
 }
 
+
+                            
+                            
+                            
+                            
 10.
 
 import java.util.Scanner;
@@ -1230,7 +1292,11 @@ System.out.println("this is the division operation");
 
 }
 
-11.
+
+                            
+                            
+                            
+                            11.
 
 import java.io.*;
 
@@ -1301,7 +1367,15 @@ fd.analyze(s);
 
 } 
 
-12a.
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            12a.
 
 import java.awt.*;
 
